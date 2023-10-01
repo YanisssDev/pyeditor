@@ -14,8 +14,8 @@ PyEditor est un éditeur de code Python simple et personnalisable avec une inter
 
 ## Prérequis
 
-⚠️ (Pas besoin si vous installez le zip contenant le .exe)
 1. [Python 3.x](https://www.python.org/downloads/)
+⚠️ (Pas besoin si vous installez le zip contenant le .exe)
 2. [PyQt5](https://pypi.org/project/PyQt5/)
 
 ## Installation
